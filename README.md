@@ -20,8 +20,9 @@ Figure 2 shows a breakdown of race, ethnicity, sexual orientation by type of hat
 In figure 3, I highlight the proportion of the suspect race being unknown, 585 incidents out of 1813 which is 32%. White suspects account for the largest share of recorded incidents, 600 cases, followed by African American suspects with 384 cases. If we were to make a story on these numbers, people would need to know that 32% of suspect’s races were not recorded and we cannot generalize any crime or bias type against one group.
 
 ## 4. Visualization
-
-
+![Number of Crimes Over Time](Number of Crimes Over Time.png)
+![Anti-Asian Crimes Over Time](Anti-Asian Crimes Over Time.png)
+![Type of Crime vs Bias Group](Type of Crime vs Bias Group.png)
 ## 5. Summary, Ethical Concerns
 The only finding we can accurately infer from the data is how social and political events trigger spikes in reported hate crimes, for example Anti-Asian hate during the pandemic and even Anti-Muslim bias following the national terrorist attack on 9/11. In 2021, the increase of total hate crimes were clearly driven by a single category of bias-type being Anti-Asian, tied to a specific world event or news report that eventually receded in time. This shows us how hate crime trends are reflective of major world events that could promote a specific bias against a certain group of individuals and that the data isn’t just random.
 
